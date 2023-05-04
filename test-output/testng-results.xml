@@ -32,12 +32,12 @@
       <![CDATA[Facebook – log in or sign up]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-05-03T12:06:49 IST" name="Suite" finished-at="2023-05-03T12:07:50 IST" duration-ms="60897">
+  <suite started-at="2023-05-04T11:35:14 IST" name="Suite" finished-at="2023-05-04T11:36:27 IST" duration-ms="73329">
     <groups>
     </groups>
-    <test started-at="2023-05-03T12:06:49 IST" name="Test" finished-at="2023-05-03T12:07:50 IST" duration-ms="60897">
+    <test started-at="2023-05-04T11:35:14 IST" name="Test" finished-at="2023-05-04T11:36:27 IST" duration-ms="73329">
       <class name="script.DemoTest2">
-        <test-method is-config="true" signature="preCondition(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:script.DemoTest2@71d44a3]" started-at="2023-05-03T12:07:20 IST" name="preCondition" finished-at="2023-05-03T12:07:32 IST" duration-ms="12130" status="PASS">
+        <test-method is-config="true" signature="preCondition(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:script.DemoTest2@71d44a3]" started-at="2023-05-04T11:35:48 IST" name="preCondition" finished-at="2023-05-04T11:36:04 IST" duration-ms="15049" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -64,20 +64,20 @@
             </line>
           </reporter-output>
         </test-method> <!-- preCondition -->
-        <test-method signature="demoTest1()[pri:0, instance:script.DemoTest2@71d44a3]" started-at="2023-05-03T12:07:32 IST" name="demoTest1" finished-at="2023-05-03T12:07:32 IST" duration-ms="24" status="PASS">
+        <test-method signature="demoTest1()[pri:0, instance:script.DemoTest2@71d44a3]" started-at="2023-05-04T11:36:04 IST" name="demoTest1" finished-at="2023-05-04T11:36:04 IST" duration-ms="28" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Facebook – log in or sign up]]>
             </line>
           </reporter-output>
         </test-method> <!-- demoTest1 -->
-        <test-method is-config="true" signature="postCondition()[pri:0, instance:script.DemoTest2@71d44a3]" started-at="2023-05-03T12:07:32 IST" name="postCondition" finished-at="2023-05-03T12:07:35 IST" duration-ms="2516" status="PASS">
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:script.DemoTest2@71d44a3]" started-at="2023-05-04T11:36:04 IST" name="postCondition" finished-at="2023-05-04T11:36:08 IST" duration-ms="4574" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postCondition -->
       </class> <!-- script.DemoTest2 -->
       <class name="script.DemoTest3">
-        <test-method is-config="true" signature="preCondition(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:script.DemoTest3@7b98f307]" started-at="2023-05-03T12:07:35 IST" name="preCondition" finished-at="2023-05-03T12:07:48 IST" duration-ms="12526" status="PASS">
+        <test-method is-config="true" signature="preCondition(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:script.DemoTest3@7b98f307]" started-at="2023-05-04T11:36:08 IST" name="preCondition" finished-at="2023-05-04T11:36:24 IST" duration-ms="16155" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -104,20 +104,20 @@
             </line>
           </reporter-output>
         </test-method> <!-- preCondition -->
-        <test-method signature="demoTest1()[pri:0, instance:script.DemoTest3@7b98f307]" started-at="2023-05-03T12:07:48 IST" name="demoTest1" finished-at="2023-05-03T12:07:48 IST" duration-ms="16" status="PASS">
+        <test-method signature="demoTest1()[pri:0, instance:script.DemoTest3@7b98f307]" started-at="2023-05-04T11:36:24 IST" name="demoTest1" finished-at="2023-05-04T11:36:24 IST" duration-ms="21" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Facebook – log in or sign up]]>
             </line>
           </reporter-output>
         </test-method> <!-- demoTest1 -->
-        <test-method is-config="true" signature="postCondition()[pri:0, instance:script.DemoTest3@7b98f307]" started-at="2023-05-03T12:07:48 IST" name="postCondition" finished-at="2023-05-03T12:07:50 IST" duration-ms="2549" status="PASS">
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:script.DemoTest3@7b98f307]" started-at="2023-05-04T11:36:24 IST" name="postCondition" finished-at="2023-05-04T11:36:27 IST" duration-ms="2632" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postCondition -->
       </class> <!-- script.DemoTest3 -->
       <class name="script.DemoTest">
-        <test-method is-config="true" signature="preCondition(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:script.DemoTest@7d8995e]" started-at="2023-05-03T12:06:49 IST" name="preCondition" finished-at="2023-05-03T12:07:06 IST" duration-ms="16327" status="PASS">
+        <test-method is-config="true" signature="preCondition(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:script.DemoTest@7d8995e]" started-at="2023-05-04T11:35:14 IST" name="preCondition" finished-at="2023-05-04T11:35:33 IST" duration-ms="19472" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -144,7 +144,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- preCondition -->
-        <test-method signature="demoTest1()[pri:0, instance:script.DemoTest@7d8995e]" started-at="2023-05-03T12:07:06 IST" name="demoTest1" finished-at="2023-05-03T12:07:18 IST" duration-ms="12358" status="FAIL">
+        <test-method signature="demoTest1()[pri:0, instance:script.DemoTest@7d8995e]" started-at="2023-05-04T11:35:33 IST" name="demoTest1" finished-at="2023-05-04T11:35:46 IST" duration-ms="12881" status="FAIL">
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
               <![CDATA[Unable to locate element: *[name='q']
@@ -152,9 +152,9 @@ For documentation on this error, please visit: https://selenium.dev/exceptions/#
 Build info: version: '4.9.0', revision: 'd7057100a6'
 System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Command: [01b0f8c1-d3c7-43ad-88fc-e81f77bbd4dd, findElement {using=name, value=q}]
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 112.0.2, moz:accessibilityChecks: false, moz:buildID: 20230424110519, moz:debuggerAddress: 127.0.0.1:39600, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 18480, moz:profile: C:\Users\vinod\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://127.0.0.1:39600/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 01b0f8c1-d3c7-43ad-88fc-e81f77bbd4dd]]>
+Command: [ed435d14-94d5-4e2a-b0ed-34abac701a6d, findElement {using=name, value=q}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 112.0.2, moz:accessibilityChecks: false, moz:buildID: 20230424110519, moz:debuggerAddress: 127.0.0.1:44945, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 2704, moz:profile: C:\Users\vinod\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://127.0.0.1:44945/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: ed435d14-94d5-4e2a-b0ed-34abac701a6d]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='q']
@@ -162,9 +162,9 @@ For documentation on this error, please visit: https://selenium.dev/exceptions/#
 Build info: version: '4.9.0', revision: 'd7057100a6'
 System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Command: [01b0f8c1-d3c7-43ad-88fc-e81f77bbd4dd, findElement {using=name, value=q}]
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 112.0.2, moz:accessibilityChecks: false, moz:buildID: 20230424110519, moz:debuggerAddress: 127.0.0.1:39600, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 18480, moz:profile: C:\Users\vinod\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://127.0.0.1:39600/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 01b0f8c1-d3c7-43ad-88fc-e81f77bbd4dd
+Command: [ed435d14-94d5-4e2a-b0ed-34abac701a6d, findElement {using=name, value=q}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 112.0.2, moz:accessibilityChecks: false, moz:buildID: 20230424110519, moz:debuggerAddress: 127.0.0.1:44945, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 2704, moz:profile: C:\Users\vinod\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://127.0.0.1:44945/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: ed435d14-94d5-4e2a-b0ed-34abac701a6d
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -226,7 +226,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
             </line>
           </reporter-output>
         </test-method> <!-- demoTest1 -->
-        <test-method is-config="true" signature="postCondition()[pri:0, instance:script.DemoTest@7d8995e]" started-at="2023-05-03T12:07:18 IST" name="postCondition" finished-at="2023-05-03T12:07:20 IST" duration-ms="2243" status="PASS">
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:script.DemoTest@7d8995e]" started-at="2023-05-04T11:35:46 IST" name="postCondition" finished-at="2023-05-04T11:35:48 IST" duration-ms="2294" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postCondition -->
