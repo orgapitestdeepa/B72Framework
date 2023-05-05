@@ -1,0 +1,12 @@
+
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+  <Parameter name="browser" value="chrome"/>
+  <Parameter name="url" value="https://demo.actitime.com/login.do"/>
+  <Parameter name="grid" value="no"/>
+  
+  <packages>
+	<package name="script"/>
+	</packages> 
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
